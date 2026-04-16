@@ -1,0 +1,1 @@
+{"id": "-40-173", "latMin": -40, "lonMin": 173, "latMax": -39, "lonMax": 174, "generated": "2026-04-16T18:39:07.180Z", "count": 1, "pois": [{"type": "node", "id": 9996408294, "lat": -39.201253, "lon": 173.980847, "tags": {"amenity": "charging_station", "fee": "no", "access": "yes", "name": "Pukeiti", "capacity": "2", "_source": "worldwide"}}]}

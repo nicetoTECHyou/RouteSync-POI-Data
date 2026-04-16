@@ -1,0 +1,1 @@
+{"id": "50--111", "latMin": 50, "lonMin": -111, "latMax": 51, "lonMax": -110, "generated": "2026-04-16T18:39:08.324Z", "count": 1, "pois": [{"type": "node", "id": 9590354022, "lat": 50.071815, "lon": -110.75476, "tags": {"amenity": "charging_station", "brand": "Petro-Canada", "name": "Petro-Canada", "_source": "worldwide"}}]}

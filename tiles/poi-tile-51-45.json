@@ -1,0 +1,1 @@
+{"id": "51-45", "latMin": 51, "lonMin": 45, "latMax": 52, "lonMax": 46, "generated": "2026-04-16T18:39:08.542Z", "count": 1, "pois": [{"type": "node", "id": 6189562363, "lat": 51.573743, "lon": 45.981405, "tags": {"amenity": "charging_station", "operator": "ПАО \"МРСК Волги\"", "name": "ПАО \"МРСК Волги\"", "_source": "worldwide"}}]}

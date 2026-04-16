@@ -1,0 +1,1 @@
+{"id": "46-80", "latMin": 46, "lonMin": 80, "latMax": 47, "lonMax": 81, "generated": "2026-04-16T18:39:08.133Z", "count": 1, "pois": [{"type": "node", "id": 13388562120, "lat": 46.181893, "lon": 80.968914, "tags": {"amenity": "charging_station", "brand": "Qazaq Energy Charge", "operator": "Qazaq Energy", "name": "Qazaq Energy Charge", "_source": "worldwide"}}]}

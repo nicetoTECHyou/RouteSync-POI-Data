@@ -1,0 +1,1 @@
+{"id": "40--103", "latMin": 40, "lonMin": -103, "latMax": 41, "lonMax": -102, "generated": "2026-04-16T18:39:07.800Z", "count": 1, "pois": [{"type": "node", "id": 10137323612, "lat": 40.965963, "lon": -102.246921, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "brand": "FreeWire", "name": "FreeWire", "_source": "worldwide"}}]}

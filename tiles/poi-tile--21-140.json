@@ -1,0 +1,1 @@
+{"id": "-21-140", "latMin": -21, "lonMin": 140, "latMax": -20, "lonMax": 141, "generated": "2026-04-16T18:39:07.207Z", "count": 1, "pois": [{"type": "node", "id": 13196763581, "lat": -20.704676, "lon": 140.50818, "tags": {"amenity": "charging_station", "operator": "Yurika", "name": "Yurika", "socket:chademo": "1", "capacity": "4", "_source": "worldwide"}}]}

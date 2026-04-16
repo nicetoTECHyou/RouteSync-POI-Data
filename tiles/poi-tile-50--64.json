@@ -1,0 +1,1 @@
+{"id": "50--64", "latMin": 50, "lonMin": -64, "latMax": 51, "lonMax": -63, "generated": "2026-04-16T18:39:08.326Z", "count": 1, "pois": [{"type": "node", "id": 9701905393, "lat": 50.237993, "lon": -63.608233, "tags": {"amenity": "charging_station", "operator": "Le Circuit Électrique", "name": "Le Circuit Électrique", "_source": "worldwide"}}]}

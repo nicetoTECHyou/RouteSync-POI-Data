@@ -1,0 +1,1 @@
+{"id": "-32--55", "latMin": -32, "lonMin": -55, "latMax": -31, "lonMax": -54, "generated": "2026-04-16T18:39:07.198Z", "count": 1, "pois": [{"type": "node", "id": 10242331797, "lat": -31.335672, "lon": -54.104769, "tags": {"amenity": "charging_station", "access": "private", "operator": "UNICRED", "name": "Estação de carregamento de veículos elétricos", "_source": "worldwide"}}]}

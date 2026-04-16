@@ -1,0 +1,1 @@
+{"id": "20--100", "latMin": 20, "lonMin": -100, "latMax": 21, "lonMax": -99, "generated": "2026-04-16T18:39:07.234Z", "count": 1, "pois": [{"type": "node", "id": 4775853323, "lat": 20.411273, "lon": -99.984318, "tags": {"amenity": "charging_station", "operator": "ferretera del prado", "name": "ferretera del prado", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "57-14", "latMin": 57, "lonMin": 14, "latMax": 58, "lonMax": 15, "generated": "2026-04-16T18:39:08.769Z", "count": 1, "pois": [{"type": "node", "id": 1377145973, "lat": 57.677688, "lon": 14.688761, "tags": {"amenity": "charging_station", "access": "yes", "operator": "GITO", "name": "Ladestation GITO", "addr:country": "SE", "capacity": "6", "_source": "worldwide"}}]}

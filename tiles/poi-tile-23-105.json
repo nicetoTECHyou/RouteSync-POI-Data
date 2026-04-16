@@ -1,0 +1,1 @@
+{"id": "23-105", "latMin": 23, "lonMin": 105, "latMax": 24, "lonMax": 106, "generated": "2026-04-16T18:39:07.243Z", "count": 1, "pois": [{"type": "node", "id": 12539159195, "lat": 23.722824, "lon": 105.402212, "tags": {"amenity": "charging_station", "fee": "yes", "network": "理想", "name": "招商公路", "capacity": "4", "_source": "worldwide"}}]}

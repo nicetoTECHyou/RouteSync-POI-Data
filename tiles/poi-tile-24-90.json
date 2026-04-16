@@ -1,0 +1,1 @@
+{"id": "24-90", "latMin": 24, "lonMin": 90, "latMax": 25, "lonMax": 91, "generated": "2026-04-16T18:39:07.247Z", "count": 1, "pois": [{"type": "node", "id": 5175880646, "lat": 24.035158, "lon": 90.832235, "tags": {"amenity": "charging_station", "operator": "Belabo CNG Stand", "name": "Belabo CNG Stand", "_source": "worldwide"}}]}

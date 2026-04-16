@@ -1,0 +1,1 @@
+{"id": "42-77", "latMin": 42, "lonMin": 77, "latMax": 43, "lonMax": 78, "generated": "2026-04-16T18:39:07.898Z", "count": 1, "pois": [{"type": "node", "id": 10122974625, "lat": 42.650148, "lon": 77.123761, "tags": {"amenity": "charging_station", "operator": "Spark", "name": "Spark", "_source": "worldwide"}}]}

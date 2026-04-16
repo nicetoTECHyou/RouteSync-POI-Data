@@ -1,0 +1,1 @@
+{"id": "53-55", "latMin": 53, "lonMin": 55, "latMax": 54, "lonMax": 56, "generated": "2026-04-16T18:39:08.713Z", "count": 1, "pois": [{"type": "node", "id": 13188667256, "lat": 53.437836, "lon": 55.262238, "tags": {"amenity": "charging_station", "access": "yes", "brand": "E-PROM", "name": "E-PROM", "_source": "worldwide"}}]}

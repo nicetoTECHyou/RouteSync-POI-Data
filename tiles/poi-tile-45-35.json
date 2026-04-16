@@ -1,0 +1,1 @@
+{"id": "45-35", "latMin": 45, "lonMin": 35, "latMax": 46, "lonMax": 36, "generated": "2026-04-16T18:39:08.112Z", "count": 1, "pois": [{"type": "node", "id": 8960254638, "lat": 45.029127, "lon": 35.383836, "tags": {"amenity": "charging_station", "fee": "yes", "brand": "e-motion", "opening_hours": "24/7", "name": "e-motion", "capacity": "10", "_source": "worldwide"}}]}

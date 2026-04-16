@@ -1,0 +1,1 @@
+{"id": "63-28", "latMin": 63, "lonMin": 28, "latMax": 64, "lonMax": 29, "generated": "2026-04-16T18:39:08.803Z", "count": 1, "pois": [{"type": "node", "id": 12361420052, "lat": 63.066313, "lon": 28.330969, "tags": {"amenity": "charging_station", "fee": "yes", "brand": "ABC-lataus", "operator": "S-ryhmä", "name": "ABC-lataus", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "42--9", "latMin": 42, "lonMin": -9, "latMax": 43, "lonMax": -8, "generated": "2026-04-16T18:39:07.860Z", "count": 1, "pois": [{"type": "node", "id": 1467266881, "lat": 42.977732, "lon": -9.191221, "tags": {"amenity": "charging_station", "operator": "Endesa", "name": "Ladestation Endesa", "addr:country": "ES", "capacity": "2", "_source": "worldwide"}}]}

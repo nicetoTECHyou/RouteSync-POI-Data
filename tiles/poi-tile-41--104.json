@@ -1,0 +1,1 @@
+{"id": "41--104", "latMin": 41, "lonMin": -104, "latMax": 42, "lonMax": -103, "generated": "2026-04-16T18:39:07.820Z", "count": 1, "pois": [{"type": "node", "id": 9718603223, "lat": 41.875579, "lon": -103.649908, "tags": {"amenity": "charging_station", "brand": "ChargePoint", "operator": "ChargePoint", "name": "ChargePoint", "_source": "worldwide"}}]}

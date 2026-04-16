@@ -1,0 +1,1 @@
+{"id": "56-35", "latMin": 56, "lonMin": 35, "latMax": 57, "lonMax": 36, "generated": "2026-04-16T18:39:08.761Z", "count": 1, "pois": [{"type": "node", "id": 10737737465, "lat": 56.915146, "lon": 35.581522, "tags": {"amenity": "charging_station", "brand": "Россети", "operator": "Россети", "name": "Россети", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "54-46", "latMin": 54, "lonMin": 46, "latMax": 55, "lonMax": 47, "generated": "2026-04-16T18:39:08.732Z", "count": 1, "pois": [{"type": "node", "id": 13392831678, "lat": 54.482094, "lon": 46.727588, "tags": {"amenity": "charging_station", "brand": "Sitronics Electro", "name": "Sitronics Electro", "socket:chademo": "1", "capacity": "3", "_source": "worldwide"}}]}

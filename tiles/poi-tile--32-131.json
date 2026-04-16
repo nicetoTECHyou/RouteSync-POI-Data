@@ -1,0 +1,1 @@
+{"id": "-32-131", "latMin": -32, "lonMin": 131, "latMax": -31, "lonMax": 132, "generated": "2026-04-16T18:39:07.198Z", "count": 1, "pois": [{"type": "node", "id": 11963667833, "lat": -31.495908, "lon": 131.81271, "tags": {"amenity": "charging_station", "brand": "RAA", "operator": "Chargefox", "name": "RAA", "capacity": "1", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "46--61", "latMin": 46, "lonMin": -61, "latMax": 47, "lonMax": -60, "generated": "2026-04-16T18:39:08.119Z", "count": 1, "pois": [{"type": "node", "id": 10940681891, "lat": 46.099527, "lon": -60.753964, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "brand": "flo", "operator": "Nova Scotia Power", "name": "flo", "_source": "worldwide"}}]}

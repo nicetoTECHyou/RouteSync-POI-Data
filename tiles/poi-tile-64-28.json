@@ -1,0 +1,1 @@
+{"id": "64-28", "latMin": 64, "lonMin": 28, "latMax": 65, "lonMax": 29, "generated": "2026-04-16T18:39:08.806Z", "count": 1, "pois": [{"type": "node", "id": 11063971143, "lat": 64.140002, "lon": 28.267372, "tags": {"amenity": "charging_station", "brand": "K-Lataus", "operator": "K-Lataus", "name": "K-Lataus (K-Supermarket Vuokatti)", "capacity": "4", "_source": "worldwide"}}]}

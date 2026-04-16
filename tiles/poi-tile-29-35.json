@@ -1,0 +1,1 @@
+{"id": "29-35", "latMin": 29, "lonMin": 35, "latMax": 30, "lonMax": 36, "generated": "2026-04-16T18:39:07.264Z", "count": 1, "pois": [{"type": "node", "id": 7510039185, "lat": 29.113415, "lon": 35.396628, "tags": {"amenity": "charging_station", "operator": "GAZ", "name": "GAZ", "_source": "worldwide"}}]}

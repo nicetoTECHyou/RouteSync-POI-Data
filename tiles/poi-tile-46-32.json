@@ -1,0 +1,1 @@
+{"id": "46-32", "latMin": 46, "lonMin": 32, "latMax": 47, "lonMax": 33, "generated": "2026-04-16T18:39:08.133Z", "count": 1, "pois": [{"type": "node", "id": 7575236898, "lat": 46.666176, "lon": 32.610107, "tags": {"amenity": "charging_station", "name": "ElectroUA", "addr:street": "Вишнева вулиця", "_source": "worldwide"}}]}

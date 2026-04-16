@@ -1,0 +1,1 @@
+{"id": "7-99", "latMin": 7, "lonMin": 99, "latMax": 8, "lonMax": 100, "generated": "2026-04-16T18:39:07.223Z", "count": 1, "pois": [{"type": "node", "id": 13017049865, "lat": 7.812278, "lon": 99.946032, "tags": {"amenity": "charging_station", "operator": "EVlink", "name": "EVlink", "_source": "worldwide"}}]}

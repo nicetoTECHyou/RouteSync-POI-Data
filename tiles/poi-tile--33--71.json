@@ -1,0 +1,1 @@
+{"id": "-33--71", "latMin": -33, "lonMin": -71, "latMax": -32, "lonMax": -70, "generated": "2026-04-16T18:39:07.196Z", "count": 1, "pois": [{"type": "node", "id": 12890184603, "lat": -32.835006, "lon": -70.604244, "tags": {"amenity": "charging_station", "access": "yes", "brand": "Enel X", "operator": "Enel X", "name": "Enel X", "_source": "worldwide"}}]}

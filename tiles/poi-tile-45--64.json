@@ -1,0 +1,1 @@
+{"id": "45--64", "latMin": 45, "lonMin": -64, "latMax": 46, "lonMax": -63, "generated": "2026-04-16T18:39:08.068Z", "count": 1, "pois": [{"type": "node", "id": 3644284346, "lat": 45.330134, "lon": -63.304571, "tags": {"amenity": "charging_station", "opening_hours": "24/7", "name": "EV Charging Station", "socket:chademo": "1", "capacity": "1", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "-19-126", "latMin": -19, "lonMin": 126, "latMax": -18, "lonMax": 127, "generated": "2026-04-16T18:39:07.209Z", "count": 1, "pois": [{"type": "node", "id": 12782254501, "lat": -18.749049, "lon": 126.113648, "tags": {"amenity": "charging_station", "operator": "Chargefox", "name": "EV Fast Charger", "capacity": "3", "_source": "worldwide"}}]}

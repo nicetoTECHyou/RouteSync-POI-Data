@@ -1,0 +1,1 @@
+{"id": "-30--54", "latMin": -30, "lonMin": -54, "latMax": -29, "lonMax": -53, "generated": "2026-04-16T18:39:07.200Z", "count": 1, "pois": [{"type": "node", "id": 8122125803, "lat": -29.689235, "lon": -53.793078, "tags": {"amenity": "charging_station", "fee": "no", "operator": "Parceria Solar", "name": "Parceria Solar", "_source": "worldwide"}}]}

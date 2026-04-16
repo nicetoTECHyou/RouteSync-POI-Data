@@ -1,0 +1,1 @@
+{"id": "6-102", "latMin": 6, "lonMin": 102, "latMax": 7, "lonMax": 103, "generated": "2026-04-16T18:39:07.223Z", "count": 1, "pois": [{"type": "node", "id": 11834661631, "lat": 6.120684, "lon": 102.241654, "tags": {"amenity": "charging_station", "access": "customers", "brand": "Gentari", "name": "Perdana Hotel EV Charging Station", "capacity": "2", "_source": "worldwide"}}]}

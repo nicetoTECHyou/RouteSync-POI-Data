@@ -1,0 +1,1 @@
+{"id": "25-98", "latMin": 25, "lonMin": 98, "latMax": 26, "lonMax": 99, "generated": "2026-04-16T18:39:07.250Z", "count": 1, "pois": [{"type": "node", "id": 12816263921, "lat": 25.825353, "lon": 98.857643, "tags": {"amenity": "charging_station", "fee": "yes", "brand": "特来电", "name": "特来电", "_source": "worldwide"}}]}

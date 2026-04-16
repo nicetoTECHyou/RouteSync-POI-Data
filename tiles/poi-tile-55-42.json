@@ -1,0 +1,1 @@
+{"id": "55-42", "latMin": 55, "lonMin": 42, "latMax": 56, "lonMax": 43, "generated": "2026-04-16T18:39:08.750Z", "count": 1, "pois": [{"type": "node", "id": 13394004468, "lat": 55.33593, "lon": 42.161643, "tags": {"amenity": "charging_station", "fee": "yes", "brand": "Punkt E", "name": "Punkt E", "capacity": "3", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "48--80", "latMin": 48, "lonMin": -80, "latMax": 49, "lonMax": -79, "generated": "2026-04-16T18:39:08.161Z", "count": 1, "pois": [{"type": "node", "id": 13395631589, "lat": 48.241563, "lon": -79.133495, "tags": {"amenity": "charging_station", "brand": "Circuit électrique", "operator": "Circuit électrique", "name": "Circuit électrique", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "48--120", "latMin": 48, "lonMin": -120, "latMax": 49, "lonMax": -119, "generated": "2026-04-16T18:39:08.160Z", "count": 1, "pois": [{"type": "node", "id": 13531431327, "lat": 48.705592, "lon": -119.438441, "tags": {"amenity": "charging_station", "access": "yes", "brand": "J-1772", "name": "J-1772", "_source": "worldwide"}}]}

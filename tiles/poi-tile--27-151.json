@@ -1,0 +1,1 @@
+{"id": "-27-151", "latMin": -27, "lonMin": 151, "latMax": -26, "lonMax": 152, "generated": "2026-04-16T18:39:07.203Z", "count": 1, "pois": [{"type": "node", "id": 9491293057, "lat": -26.540075, "lon": 151.840136, "tags": {"amenity": "charging_station", "operator": "Stanwell", "name": "Stanwell", "socket:chademo": "1", "capacity": "2", "_source": "worldwide"}}]}

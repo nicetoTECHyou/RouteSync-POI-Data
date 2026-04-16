@@ -1,0 +1,1 @@
+{"id": "18-100", "latMin": 18, "lonMin": 100, "latMax": 19, "lonMax": 101, "generated": "2026-04-16T18:39:07.232Z", "count": 1, "pois": [{"type": "node", "id": 13431464659, "lat": 18.77872, "lon": 100.758195, "tags": {"amenity": "charging_station", "brand": "PTT", "name": "PTT", "_source": "worldwide"}}]}

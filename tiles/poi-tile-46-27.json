@@ -1,0 +1,1 @@
+{"id": "46-27", "latMin": 46, "lonMin": 27, "latMax": 47, "lonMax": 28, "generated": "2026-04-16T18:39:08.132Z", "count": 1, "pois": [{"type": "node", "id": 11754968387, "lat": 46.638073, "lon": 27.737628, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "brand": "Eldrive", "operator": "Eldrive", "name": "Eldrive", "capacity": "4", "_source": "worldwide"}}]}

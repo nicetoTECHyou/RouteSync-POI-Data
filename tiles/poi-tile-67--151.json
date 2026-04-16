@@ -1,0 +1,1 @@
+{"id": "67--151", "latMin": 67, "lonMin": -151, "latMax": 68, "lonMax": -150, "generated": "2026-04-16T18:39:08.809Z", "count": 1, "pois": [{"type": "node", "id": 11228507570, "lat": 67.251191, "lon": -150.173028, "tags": {"amenity": "charging_station", "fee": "yes", "access": "customers", "operator": "Coldfoot Camp", "name": "Coldfoot Camp", "_source": "worldwide"}}]}

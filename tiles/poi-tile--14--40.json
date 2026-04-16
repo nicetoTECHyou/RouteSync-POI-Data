@@ -1,0 +1,1 @@
+{"id": "-14--40", "latMin": -14, "lonMin": -40, "latMax": -13, "lonMax": -39, "generated": "2026-04-16T18:39:07.210Z", "count": 1, "pois": [{"type": "node", "id": 4805650324, "lat": -13.369247, "lon": -39.070684, "tags": {"amenity": "charging_station", "operator": "ipiranga", "name": "ipiranga", "_source": "worldwide"}}]}

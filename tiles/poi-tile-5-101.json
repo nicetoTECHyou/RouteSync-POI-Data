@@ -1,0 +1,1 @@
+{"id": "5-101", "latMin": 5, "lonMin": 101, "latMax": 6, "lonMax": 102, "generated": "2026-04-16T18:39:07.222Z", "count": 1, "pois": [{"type": "node", "id": 13247860092, "lat": 5.704104, "lon": 101.741554, "tags": {"amenity": "charging_station", "fee": "yes", "network": "TNB Electron", "name": "Petron Batu Melintang", "capacity": "3", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "41--101", "latMin": 41, "lonMin": -101, "latMax": 42, "lonMax": -100, "generated": "2026-04-16T18:39:07.820Z", "count": 1, "pois": [{"type": "node", "id": 10733516199, "lat": 41.120414, "lon": -100.759419, "tags": {"amenity": "charging_station", "operator": "Electrify America", "name": "Electrify America", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "-32-129", "latMin": -32, "lonMin": 129, "latMax": -31, "lonMax": 130, "generated": "2026-04-16T18:39:07.198Z", "count": 1, "pois": [{"type": "node", "id": 13142359535, "lat": -31.63867, "lon": 129.00266, "tags": {"amenity": "charging_station", "operator": "NRMA", "name": "NRMA", "capacity": "4", "_source": "worldwide"}}]}

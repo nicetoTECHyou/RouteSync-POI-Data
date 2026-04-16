@@ -1,0 +1,1 @@
+{"id": "10-104", "latMin": 10, "lonMin": 104, "latMax": 11, "lonMax": 105, "generated": "2026-04-16T18:39:07.226Z", "count": 1, "pois": [{"type": "node", "id": 13720328502, "lat": 10.412218, "lon": 104.032561, "tags": {"amenity": "charging_station", "operator": "Vinfast", "name": "Vinfast", "_source": "worldwide"}}]}

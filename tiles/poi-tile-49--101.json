@@ -1,0 +1,1 @@
+{"id": "49--101", "latMin": 49, "lonMin": -101, "latMax": 50, "lonMax": -100, "generated": "2026-04-16T18:39:08.249Z", "count": 1, "pois": [{"type": "node", "id": 9590355880, "lat": 49.85186, "lon": -100.932923, "tags": {"amenity": "charging_station", "brand": "Co-op", "name": "Co-op", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "33-116", "latMin": 33, "lonMin": 116, "latMax": 34, "lonMax": 117, "generated": "2026-04-16T18:39:07.291Z", "count": 1, "pois": [{"type": "node", "id": 13027755100, "lat": 33.645799, "lon": 116.95989, "tags": {"amenity": "charging_station", "brand": "Tesla Supercharger", "operator": "Tesla", "name": "Tesla Supercharger", "_source": "worldwide"}}]}

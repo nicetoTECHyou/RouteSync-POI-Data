@@ -1,0 +1,1 @@
+{"id": "53-39", "latMin": 53, "lonMin": 39, "latMax": 54, "lonMax": 40, "generated": "2026-04-16T18:39:08.712Z", "count": 1, "pois": [{"type": "node", "id": 13284158352, "lat": 53.806035, "lon": 39.55438, "tags": {"amenity": "charging_station", "brand": "РусГидро", "operator": "РусГидро", "name": "РусГидро", "socket:chademo": "1", "capacity": "4", "_source": "worldwide"}}]}

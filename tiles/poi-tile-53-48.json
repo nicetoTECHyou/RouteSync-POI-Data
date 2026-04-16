@@ -1,0 +1,1 @@
+{"id": "53-48", "latMin": 53, "lonMin": 48, "latMax": 54, "lonMax": 49, "generated": "2026-04-16T18:39:08.713Z", "count": 1, "pois": [{"type": "node", "id": 10538994291, "lat": 53.210039, "lon": 48.481076, "tags": {"amenity": "charging_station", "operator": "РусГидро", "name": "РусГидро", "_source": "worldwide"}}]}

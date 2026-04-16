@@ -1,0 +1,1 @@
+{"id": "-8-111", "latMin": -8, "lonMin": 111, "latMax": -7, "lonMax": 112, "generated": "2026-04-16T18:39:07.212Z", "count": 1, "pois": [{"type": "node", "id": 10061967265, "lat": -7.548902, "lon": 111.757198, "tags": {"amenity": "charging_station", "fee": "no", "opening_hours": "24/7", "name": "SPKLU PLN", "_source": "worldwide"}}]}

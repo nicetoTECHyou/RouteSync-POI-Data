@@ -1,0 +1,1 @@
+{"id": "16-75", "latMin": 16, "lonMin": 75, "latMax": 17, "lonMax": 76, "generated": "2026-04-16T18:39:07.229Z", "count": 1, "pois": [{"type": "node", "id": 5305546325, "lat": 16.812925, "lon": 75.715725, "tags": {"amenity": "charging_station", "operator": "KPTCL", "name": "KPTCL", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "23-110", "latMin": 23, "lonMin": 110, "latMax": 24, "lonMax": 111, "generated": "2026-04-16T18:39:07.243Z", "count": 1, "pois": [{"type": "node", "id": 13475715053, "lat": 23.366443, "lon": 110.065318, "tags": {"amenity": "charging_station", "operator": "中国石化", "name": "中国石化汽车充电站(桂平凤凰站)", "_source": "worldwide"}}]}

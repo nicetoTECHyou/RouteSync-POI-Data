@@ -1,0 +1,1 @@
+{"id": "15--89", "latMin": 15, "lonMin": -89, "latMax": 16, "lonMax": -88, "generated": "2026-04-16T18:39:07.228Z", "count": 1, "pois": [{"type": "node", "id": 5298771021, "lat": 15.708999, "lon": -88.590867, "tags": {"amenity": "charging_station", "operator": "Sermalsa", "name": "Sermalsa", "_source": "worldwide"}}]}

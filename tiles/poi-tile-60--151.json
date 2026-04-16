@@ -1,0 +1,1 @@
+{"id": "60--151", "latMin": 60, "lonMin": -151, "latMax": 61, "lonMax": -150, "generated": "2026-04-16T18:39:08.787Z", "count": 1, "pois": [{"type": "node", "id": 11182414927, "lat": 60.532535, "lon": -150.738611, "tags": {"amenity": "charging_station", "fee": "yes", "brand": "EvGateway", "operator": "EvGateway", "name": "EvGateway", "_source": "worldwide"}}]}

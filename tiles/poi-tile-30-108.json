@@ -1,0 +1,1 @@
+{"id": "30-108", "latMin": 30, "lonMin": 108, "latMax": 31, "lonMax": 109, "generated": "2026-04-16T18:39:07.272Z", "count": 1, "pois": [{"type": "node", "id": 11261677465, "lat": 30.172735, "lon": 108.563527, "tags": {"amenity": "charging_station", "brand": "国家电网", "operator": "国家电网有限公司", "name": "国家电网", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "28-34", "latMin": 28, "lonMin": 34, "latMax": 29, "lonMax": 35, "generated": "2026-04-16T18:39:07.260Z", "count": 1, "pois": [{"type": "node", "id": 10184257811, "lat": 28.04466, "lon": 34.429879, "tags": {"amenity": "charging_station", "operator": "InfinityEV", "name": "InfinityEV", "_source": "worldwide"}}]}

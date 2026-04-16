@@ -1,0 +1,1 @@
+{"id": "-28--49", "latMin": -28, "lonMin": -49, "latMax": -27, "lonMax": -48, "generated": "2026-04-16T18:39:07.202Z", "count": 1, "pois": [{"type": "node", "id": 11512434387, "lat": -27.720156, "lon": -48.563522, "tags": {"amenity": "charging_station", "fee": "yes", "access": "customers", "operator": "Ostradamus", "name": "Ostradamus", "_source": "worldwide"}}]}

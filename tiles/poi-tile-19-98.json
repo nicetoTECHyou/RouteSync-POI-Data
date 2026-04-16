@@ -1,0 +1,1 @@
+{"id": "19-98", "latMin": 19, "lonMin": 98, "latMax": 20, "lonMax": 99, "generated": "2026-04-16T18:39:07.233Z", "count": 1, "pois": [{"type": "node", "id": 13444838492, "lat": 19.348462, "lon": 98.442079, "tags": {"amenity": "charging_station", "opening_hours": "24/7", "brand": "Elex", "name": "Elex", "capacity": "2", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "-7-109", "latMin": -7, "lonMin": 109, "latMax": -6, "lonMax": 110, "generated": "2026-04-16T18:39:07.213Z", "count": 1, "pois": [{"type": "node", "id": 13404199501, "lat": -6.933162, "lon": 109.215483, "tags": {"amenity": "charging_station", "name": "EV Charging Station", "socket:chademo": "1", "capacity": "3", "_source": "worldwide"}}]}

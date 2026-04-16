@@ -1,0 +1,1 @@
+{"id": "3-102", "latMin": 3, "lonMin": 102, "latMax": 4, "lonMax": 103, "generated": "2026-04-16T18:39:07.220Z", "count": 1, "pois": [{"type": "node", "id": 13154843802, "lat": 3.512178, "lon": 102.441845, "tags": {"amenity": "charging_station", "operator": "ParkEasy", "name": "Shell R&R Temerloh E8 Eastbound EV Charging", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "39-46", "latMin": 39, "lonMin": 46, "latMax": 40, "lonMax": 47, "generated": "2026-04-16T18:39:07.796Z", "count": 1, "pois": [{"type": "node", "id": 13715490757, "lat": 39.678035, "lon": 46.520269, "tags": {"amenity": "charging_station", "access": "private", "brand": "iVolt", "operator": "iVolt", "name": "iVolt", "_source": "worldwide"}}]}

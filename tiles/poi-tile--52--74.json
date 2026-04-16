@@ -1,0 +1,1 @@
+{"id": "-52--74", "latMin": -52, "lonMin": -74, "latMax": -51, "lonMax": -73, "generated": "2026-04-16T18:39:07.174Z", "count": 1, "pois": [{"type": "node", "id": 8149603730, "lat": -51.123087, "lon": -73.116819, "tags": {"amenity": "charging_station", "operator": "CGE", "name": "CGE", "addr:country": "CL", "socket:type1": "1", "capacity": "1", "_source": "worldwide"}}]}

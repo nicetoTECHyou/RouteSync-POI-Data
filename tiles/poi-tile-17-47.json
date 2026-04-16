@@ -1,0 +1,1 @@
+{"id": "17-47", "latMin": 17, "lonMin": 47, "latMax": 18, "lonMax": 48, "generated": "2026-04-16T18:39:07.230Z", "count": 1, "pois": [{"type": "node", "id": 11443450203, "lat": 17.480776, "lon": 47.099003, "tags": {"amenity": "charging_station", "opening_hours": "Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00", "operator": "Electromin", "name": "Electromin", "_source": "worldwide"}}]}

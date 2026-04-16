@@ -1,0 +1,1 @@
+{"id": "-2-99", "latMin": -2, "lonMin": 99, "latMax": -1, "lonMax": 100, "generated": "2026-04-16T18:39:07.217Z", "count": 1, "pois": [{"type": "node", "id": 4550079690, "lat": -1.565927, "lon": 99.193281, "tags": {"amenity": "charging_station", "operator": "PLN Maileppet", "name": "PLN Maileppet", "_source": "worldwide"}}]}

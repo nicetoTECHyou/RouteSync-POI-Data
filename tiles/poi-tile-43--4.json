@@ -1,0 +1,1 @@
+{"id": "43--4", "latMin": 43, "lonMin": -4, "latMax": 44, "lonMax": -3, "generated": "2026-04-16T18:39:07.906Z", "count": 1, "pois": [{"type": "node", "id": 1304915028, "lat": 43.384068, "lon": -4.298454, "tags": {"amenity": "charging_station", "access": "customers", "addr:country": "FR", "_source": "worldwide"}}]}

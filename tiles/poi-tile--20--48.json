@@ -1,0 +1,1 @@
+{"id": "-20--48", "latMin": -20, "lonMin": -48, "latMax": -19, "lonMax": -47, "generated": "2026-04-16T18:39:07.208Z", "count": 1, "pois": [{"type": "node", "id": 11040399357, "lat": -19.765919, "lon": -47.951174, "tags": {"amenity": "charging_station", "access": "yes", "brand": "incharge", "operator": "incharge", "name": "incharge", "_source": "worldwide"}}]}

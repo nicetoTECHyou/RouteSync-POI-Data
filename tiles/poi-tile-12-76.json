@@ -1,0 +1,1 @@
+{"id": "12-76", "latMin": 12, "lonMin": 76, "latMax": 13, "lonMax": 77, "generated": "2026-04-16T18:39:07.227Z", "count": 1, "pois": [{"type": "node", "id": 13238855163, "lat": 12.966256, "lon": 76.788515, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "brand": "Glida", "name": "Glida", "_source": "worldwide"}}]}

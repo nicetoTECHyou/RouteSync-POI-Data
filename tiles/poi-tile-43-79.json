@@ -1,0 +1,1 @@
+{"id": "43-79", "latMin": 43, "lonMin": 79, "latMax": 44, "lonMax": 80, "generated": "2026-04-16T18:39:08.027Z", "count": 1, "pois": [{"type": "node", "id": 13390640284, "lat": 43.529133, "lon": 79.433044, "tags": {"amenity": "charging_station", "fee": "yes", "brand": "EVS", "operator": "EVS", "name": "EVS", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "44-81", "latMin": 44, "lonMin": 81, "latMax": 45, "lonMax": 82, "generated": "2026-04-16T18:39:08.053Z", "count": 1, "pois": [{"type": "node", "id": 11062617465, "lat": 44.599894, "lon": 81.390757, "tags": {"amenity": "charging_station", "brand": "NIO Power", "name": "蔚来超充站", "_source": "worldwide"}}]}

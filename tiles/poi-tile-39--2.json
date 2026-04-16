@@ -1,0 +1,1 @@
+{"id": "39--2", "latMin": 39, "lonMin": -2, "latMax": 40, "lonMax": -1, "generated": "2026-04-16T18:39:07.709Z", "count": 1, "pois": [{"type": "node", "id": 1205430874, "lat": 39.282283, "lon": -2.786661, "tags": {"amenity": "charging_station", "operator": "Mercadona", "name": "Ladestation Mercadona", "addr:country": "ES", "_source": "worldwide"}}]}

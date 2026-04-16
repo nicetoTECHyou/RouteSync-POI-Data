@@ -1,0 +1,1 @@
+{"id": "42-63", "latMin": 42, "lonMin": 63, "latMax": 43, "lonMax": 64, "generated": "2026-04-16T18:39:07.897Z", "count": 1, "pois": [{"type": "node", "id": 12071048546, "lat": 42.150609, "lon": 63.564224, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "brand": "TOK BOR", "operator": "OOO \"TOK BOR\"", "name": "Tok Bor", "_source": "worldwide"}}]}

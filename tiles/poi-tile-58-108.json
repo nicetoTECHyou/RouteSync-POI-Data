@@ -1,0 +1,1 @@
+{"id": "58-108", "latMin": 58, "lonMin": 108, "latMax": 59, "lonMax": 109, "generated": "2026-04-16T18:39:08.776Z", "count": 1, "pois": [{"type": "node", "id": 4497012293, "lat": 58.260064, "lon": 108.702126, "tags": {"amenity": "charging_station", "operator": "АК \"Транснефть\"", "name": "АК \"Транснефть\"", "_source": "worldwide"}}]}

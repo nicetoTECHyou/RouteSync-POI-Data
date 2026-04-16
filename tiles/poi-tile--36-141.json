@@ -1,0 +1,1 @@
+{"id": "-36-141", "latMin": -36, "lonMin": 141, "latMax": -35, "lonMax": 142, "generated": "2026-04-16T18:39:07.189Z", "count": 1, "pois": [{"type": "node", "id": 11415799827, "lat": -35.263263, "lon": 141.182971, "tags": {"amenity": "charging_station", "operator": "Evie Networks", "name": "Evie Networks", "socket:chademo": "1", "capacity": "2", "_source": "worldwide"}}]}

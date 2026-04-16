@@ -1,0 +1,1 @@
+{"id": "-18-128", "latMin": -18, "lonMin": 128, "latMax": -17, "lonMax": 129, "generated": "2026-04-16T18:39:07.209Z", "count": 1, "pois": [{"type": "node", "id": 13146443808, "lat": -17.016624, "lon": 128.217375, "tags": {"amenity": "charging_station", "operator": "Chargefox", "name": "Chargefox", "capacity": "3", "_source": "worldwide"}}]}

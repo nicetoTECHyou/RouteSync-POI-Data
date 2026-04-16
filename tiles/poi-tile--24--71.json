@@ -1,0 +1,1 @@
+{"id": "-24--71", "latMin": -24, "lonMin": -71, "latMax": -23, "lonMax": -70, "generated": "2026-04-16T18:39:07.204Z", "count": 1, "pois": [{"type": "node", "id": 12889983089, "lat": -23.565538, "lon": -70.398668, "tags": {"amenity": "charging_station", "access": "yes", "operator": "Copec", "name": "Copec Voltex", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "-39--61", "latMin": -39, "lonMin": -61, "latMax": -38, "lonMax": -60, "generated": "2026-04-16T18:39:07.180Z", "count": 1, "pois": [{"type": "node", "id": 12091747469, "lat": -38.023544, "lon": -60.115743, "tags": {"amenity": "charging_station", "opening_hours": "24/7", "name": "SHELL Select", "addr:street": "Ruta 3 N", "_source": "worldwide"}}]}

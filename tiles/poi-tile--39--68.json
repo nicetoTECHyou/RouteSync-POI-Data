@@ -1,0 +1,1 @@
+{"id": "-39--68", "latMin": -39, "lonMin": -68, "latMax": -38, "lonMax": -67, "generated": "2026-04-16T18:39:07.180Z", "count": 1, "pois": [{"type": "node", "id": 9211680988, "lat": -38.942025, "lon": -67.993624, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "operator": "Municipalidad de Cipolletti", "name": "EcoCipo", "_source": "worldwide"}}]}

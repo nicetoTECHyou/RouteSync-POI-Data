@@ -1,0 +1,1 @@
+{"id": "23-72", "latMin": 23, "lonMin": 72, "latMax": 24, "lonMax": 73, "generated": "2026-04-16T18:39:07.242Z", "count": 1, "pois": [{"type": "node", "id": 12679343545, "lat": 23.229764, "lon": 72.666299, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "brand": "Statiq", "operator": "Necell", "name": "Statiq", "_source": "worldwide"}}]}

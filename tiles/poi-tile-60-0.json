@@ -1,0 +1,1 @@
+{"id": "60-0", "latMin": 60, "lonMin": 0, "latMax": 61, "lonMax": 1, "generated": "2026-04-16T18:39:08.788Z", "count": 1, "pois": [{"type": "node", "id": 6602497092, "lat": 60.593958, "lon": -0.859397, "tags": {"amenity": "charging_station", "operator": "elektrobay", "name": "Ladestation elektrobay", "_source": "worldwide"}}]}

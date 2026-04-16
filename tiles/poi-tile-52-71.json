@@ -1,0 +1,1 @@
+{"id": "52-71", "latMin": 52, "lonMin": 71, "latMax": 53, "lonMax": 72, "generated": "2026-04-16T18:39:08.668Z", "count": 1, "pois": [{"type": "node", "id": 13389011548, "lat": 52.335422, "lon": 71.88035, "tags": {"amenity": "charging_station", "fee": "yes", "brand": "EDrive", "operator": "EDrive", "name": "EDrive", "addr:housenumber": "151", "_source": "worldwide"}}]}

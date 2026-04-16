@@ -1,0 +1,1 @@
+{"id": "57-53", "latMin": 57, "lonMin": 53, "latMax": 58, "lonMax": 54, "generated": "2026-04-16T18:39:08.769Z", "count": 1, "pois": [{"type": "node", "id": 11841194883, "lat": 57.067183, "lon": 53.98849, "tags": {"amenity": "charging_station", "access": "yes", "name": "EV Charging Station", "addr:street": "улица Мира", "addr:housenumber": "1А", "_source": "worldwide"}}]}

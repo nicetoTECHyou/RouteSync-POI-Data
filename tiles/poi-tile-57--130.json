@@ -1,0 +1,1 @@
+{"id": "57--130", "latMin": 57, "lonMin": -130, "latMax": 58, "lonMax": -129, "generated": "2026-04-16T18:39:08.763Z", "count": 1, "pois": [{"type": "node", "id": 12089903834, "lat": 57.837704, "lon": -129.989961, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "operator": "Kluachon Grocery Store", "name": "Iskut EV Chargers", "_source": "worldwide"}}]}

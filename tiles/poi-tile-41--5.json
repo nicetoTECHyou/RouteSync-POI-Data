@@ -1,0 +1,1 @@
+{"id": "41--5", "latMin": 41, "lonMin": -5, "latMax": 42, "lonMax": -4, "generated": "2026-04-16T18:39:07.834Z", "count": 1, "pois": [{"type": "node", "id": 1057690635, "lat": 41.505157, "lon": -5.731181, "tags": {"amenity": "charging_station", "operator": "Aldi", "name": "Ladestation Aldi", "addr:country": "ES", "_source": "worldwide"}}]}

@@ -1,0 +1,1 @@
+{"id": "55--123", "latMin": 55, "lonMin": -123, "latMax": 56, "lonMax": -122, "generated": "2026-04-16T18:39:08.733Z", "count": 1, "pois": [{"type": "node", "id": 12207914203, "lat": 55.393831, "lon": -122.626226, "tags": {"amenity": "charging_station", "operator": "BC Hydro", "name": "BC Hydro", "_source": "worldwide"}}]}

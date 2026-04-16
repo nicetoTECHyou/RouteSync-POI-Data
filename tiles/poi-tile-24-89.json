@@ -1,0 +1,1 @@
+{"id": "24-89", "latMin": 24, "lonMin": 89, "latMax": 25, "lonMax": 90, "generated": "2026-04-16T18:39:07.246Z", "count": 1, "pois": [{"type": "node", "id": 2303633832, "lat": 24.930236, "lon": 89.94832, "tags": {"amenity": "charging_station", "name": "EV Charging Station", "_source": "worldwide"}}]}

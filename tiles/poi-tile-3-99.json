@@ -1,0 +1,1 @@
+{"id": "3-99", "latMin": 3, "lonMin": 99, "latMax": 4, "lonMax": 100, "generated": "2026-04-16T18:39:07.220Z", "count": 1, "pois": [{"type": "node", "id": 13604493028, "lat": 3.171011, "lon": 99.419576, "tags": {"amenity": "charging_station", "operator": "Perusahaan Listrik Negara", "name": "Perusahaan Listrik Negara", "_source": "worldwide"}}]}

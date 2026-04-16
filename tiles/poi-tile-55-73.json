@@ -1,0 +1,1 @@
+{"id": "55-73", "latMin": 55, "lonMin": 73, "latMax": 56, "lonMax": 74, "generated": "2026-04-16T18:39:08.752Z", "count": 1, "pois": [{"type": "node", "id": 8247694168, "lat": 55.014043, "lon": 73.31814, "tags": {"amenity": "charging_station", "operator": "eCars", "name": "eCars", "socket:type1": "1", "capacity": "1", "_source": "worldwide"}}]}

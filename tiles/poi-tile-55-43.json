@@ -1,0 +1,1 @@
+{"id": "55-43", "latMin": 55, "lonMin": 43, "latMax": 56, "lonMax": 44, "generated": "2026-04-16T18:39:08.750Z", "count": 1, "pois": [{"type": "node", "id": 13381178863, "lat": 55.403917, "lon": 43.851486, "tags": {"amenity": "charging_station", "fee": "yes", "brand": "Orange Walt", "name": "Orange Walt", "socket:chademo": "1", "capacity": "3", "_source": "worldwide"}}]}

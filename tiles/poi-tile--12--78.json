@@ -1,0 +1,1 @@
+{"id": "-12--78", "latMin": -12, "lonMin": -78, "latMax": -11, "lonMax": -77, "generated": "2026-04-16T18:39:07.211Z", "count": 1, "pois": [{"type": "node", "id": 11668531793, "lat": -11.994838, "lon": -77.06278, "tags": {"amenity": "charging_station", "operator": "Volvo", "name": "Estación de carga EV Volvo", "_source": "worldwide"}}]}

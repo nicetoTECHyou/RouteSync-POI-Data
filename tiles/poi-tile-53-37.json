@@ -1,0 +1,1 @@
+{"id": "53-37", "latMin": 53, "lonMin": 37, "latMax": 54, "lonMax": 38, "generated": "2026-04-16T18:39:08.712Z", "count": 1, "pois": [{"type": "node", "id": 13163253301, "lat": 53.908522, "lon": 37.471811, "tags": {"amenity": "charging_station", "opening_hours": "24/7", "operator": "Portal Energy", "name": "Portal Energy", "addr:postcode": "301226", "_source": "worldwide"}}]}

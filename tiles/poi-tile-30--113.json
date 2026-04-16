@@ -1,0 +1,1 @@
+{"id": "30--113", "latMin": 30, "lonMin": -113, "latMax": 31, "lonMax": -112, "generated": "2026-04-16T18:39:07.266Z", "count": 1, "pois": [{"type": "node", "id": 10024763894, "lat": 30.721211, "lon": -112.150479, "tags": {"amenity": "charging_station", "access": "customers", "brand": "Tesla, Inc.", "operator": "City Express", "name": "Tesla", "_source": "worldwide"}}]}

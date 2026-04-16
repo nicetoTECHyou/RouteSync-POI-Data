@@ -1,0 +1,1 @@
+{"id": "46-38", "latMin": 46, "lonMin": 38, "latMax": 47, "lonMax": 39, "generated": "2026-04-16T18:39:08.133Z", "count": 1, "pois": [{"type": "node", "id": 11773059646, "lat": 46.712328, "lon": 38.271424, "tags": {"amenity": "charging_station", "fee": "yes", "access": "yes", "operator": "НЭСК", "name": "НЭСК", "_source": "worldwide"}}]}

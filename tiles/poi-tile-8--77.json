@@ -1,0 +1,1 @@
+{"id": "8--77", "latMin": 8, "lonMin": -77, "latMax": 9, "lonMax": -76, "generated": "2026-04-16T18:39:07.223Z", "count": 1, "pois": [{"type": "node", "id": 8197570718, "lat": 8.162926, "lon": -76.059744, "tags": {"amenity": "charging_station", "operator": "IDEMA", "name": "IDEMA", "_source": "worldwide"}}]}

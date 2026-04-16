@@ -1,0 +1,1 @@
+{"id": "51--102", "latMin": 51, "lonMin": -102, "latMax": 52, "lonMax": -101, "generated": "2026-04-16T18:39:08.406Z", "count": 1, "pois": [{"type": "node", "id": 12761621001, "lat": 51.227973, "lon": -101.339766, "tags": {"amenity": "charging_station", "operator": "Flo", "name": "Flo", "_source": "worldwide"}}]}

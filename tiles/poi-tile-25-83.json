@@ -1,0 +1,1 @@
+{"id": "25-83", "latMin": 25, "lonMin": 83, "latMax": 26, "lonMax": 84, "generated": "2026-04-16T18:39:07.250Z", "count": 1, "pois": [{"type": "node", "id": 12596454002, "lat": 25.281528, "lon": 83.003297, "tags": {"amenity": "charging_station", "access": "yes", "brand": "ather grid", "operator": "Ather energy", "name": "ather grid", "capacity": "1", "_source": "worldwide"}}]}

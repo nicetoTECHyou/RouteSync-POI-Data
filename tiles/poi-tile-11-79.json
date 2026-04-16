@@ -1,0 +1,1 @@
+{"id": "11-79", "latMin": 11, "lonMin": 79, "latMax": 12, "lonMax": 80, "generated": "2026-04-16T18:39:07.226Z", "count": 1, "pois": [{"type": "node", "id": 6769723885, "lat": 11.980871, "lon": 79.776888, "tags": {"amenity": "charging_station", "operator": "Solar Powered Charging Station", "name": "Solar Powered Charging Station", "_source": "worldwide"}}]}
